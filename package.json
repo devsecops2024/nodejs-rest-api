@@ -1,13 +1,13 @@
 {
-  "name": "node-hello-world-minimal",
+  "name": "nodejs-rest-api",
   "version": "1.0.0",
   "description": "Node.js minimal example",
-  "author": "Steve Martinelli <s.martinelli@gmail.com>",
+  "author": "devsecops2024",
   "main": "app.js",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM/node-hello-world-minimal.git"
+    "url": "https://github.com/devsecops2024/nodejs-rest-api"
   },
   "scripts": {
     "start": "node app.js"
