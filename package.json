@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM/node-hello-world-minimal.git"
+    "url": "https://github.com/devsecops2024/nodejs-rest-api.git"
   },
   "scripts": {
     "start": "node app.js"
